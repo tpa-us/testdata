@@ -1,0 +1,14 @@
+{
+  "class": "TPA MARKETING",
+  "student": {
+    "name": "Programming JSON TEST DATA!",
+		"email": "json@programmingliftoff.com",
+		"website": "www.programmingliftoff.com",
+		"idNumber": 100
+  },
+  "homework": [
+	  "read 5 pages for TPA",
+		"memorize Telescopic Linear Data",
+		"write a program sort products by capacity"
+	]
+}
