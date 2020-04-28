@@ -1,0 +1,9 @@
+{
+    "name":"Rollon",
+    "type": "Semi-Telescopic",
+    "description": "Will only extend about half it's closed length!",
+    "slides": [
+      {"name":"ASN28", "models":["ASN28-130-074", "ASN28-210-116", "ASN28-290-148"]},
+      {"name":"ASN43", "models":["ASN43-210-123", "ASN43-290-158", "ASN43-370-208"]}
+    ]
+  }
